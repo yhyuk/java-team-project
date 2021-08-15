@@ -33,7 +33,7 @@ ___
 ___
 
 ## PPT
-- PPT 
+- [PPT](https://github.com/yhyuk/java-team-project/blob/main/%5B08%5D.%20PPT/Java%20Console%20Project.pptx)
 ___
 
 ## class 다이어그램
