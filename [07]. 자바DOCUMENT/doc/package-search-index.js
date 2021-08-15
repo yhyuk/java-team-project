@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"Admin"},{"l":"AdminManage"},{"l":"AdminSalary"},{"l":"AdminVacation"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"Main"},{"l":"User"},{"l":"UserNotice"},{"l":"UserSchedule"},{"l":"UserStatus"},{"l":"UserSuggestion"},{"l":"UserVacation"}];updateSearchResults();
